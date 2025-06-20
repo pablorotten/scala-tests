@@ -3,3 +3,4 @@
 *.jar
 target/
 .idea/
+project/target/
